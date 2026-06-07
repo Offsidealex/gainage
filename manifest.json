@@ -1,7 +1,7 @@
 {
   "name": "Gainage 30min",
   "short_name": "Gainage",
-  "start_url": "/",
+  "start_url": "/gainage/",
   "display": "standalone",
   "background_color": "#0d0d1a",
   "theme_color": "#f59e0b",
